@@ -1,10 +1,10 @@
 # BankApp
-Used tools:
-IDE: STS
-DBeaver/phpMyAdmin for connection to MySQL database.
+Used tools: <br>
+IDE: STS <br>
+DBeaver/phpMyAdmin for connection to MySQL database. <br>
 Postman
 
-Technologies:
-Java 17
-Spring boot 3
+Technologies:<br>
+Java 17 <br>
+Spring boot 3 <br>
 MySQL for relational database
